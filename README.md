@@ -14,4 +14,4 @@
 - Object-Oriented Programming in Java
 - Advanced Competitive Programming Techniques
 
-📫 **Contact:** Email: asirhamim03@gmail.com | LinkedIn Profile: Asir Hamim  
+📫 **Contact:** Email: asirhamim03@gmail.com | LinkedIn Profile: [Asir Hamim](https://www.linkedin.com/in/asir-hamim-0522242b9/)  
