@@ -1,4 +1,3 @@
-# Asir
 # Hello! 👋 I'm Asir
 🎓 **Second-Year CSE Student** from Bangladesh  
 💻 Passionate about Competitive Programming and Software Development  
